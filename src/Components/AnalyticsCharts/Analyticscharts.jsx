@@ -57,6 +57,7 @@ export default function AnalyticsCharts() {
                   <span
                     className="w-3 h-3 rounded-full"
                     style={{
+                      
                       backgroundColor:
                         chartData.datasets[0].backgroundColor[index],
                     }}
